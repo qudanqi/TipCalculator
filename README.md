@@ -38,7 +38,7 @@ I am not familiar with the Xcode. It took me some time to be confortable to use 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Danqi Qu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
